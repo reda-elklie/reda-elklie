@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **PHP,MySQL...**
 
-- 👨‍💻 All of my projects are available at [https://ridaelklie.cf/](https://redaelklie.netlify.app/)
+- 👨‍💻 All of my projects are available at [(https://redaelklie.netlify.app/)]
 
 - 📫 How to contact me **redaelklie@gmail.com**
 
-- 📄 Know about my experiences [https://ridaelklie.cf/view.html](https://redaelklie.netlify.app/view)
+- 📄 Know about my experiences [(https://redaelklie.netlify.app/view)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
